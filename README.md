@@ -4,8 +4,8 @@
 
 1. リポジトリ作成（「account-id.github.io」という名前にする。「account-id」は自分自身のアカウントのID）
 2. ローカルでコマンド実行  
-		$ git init
-		$ git remote add origin https://github.com/account-id/account-id.github.io.git
+        $ git init
+        $ git remote add origin https://github.com/account-id/account-id.github.io.git
 3. git cloneするなどしてページを作成、pushする
 4. アクセスする。＞ [Githubポータル](https://arm-band.github.io/)
 
