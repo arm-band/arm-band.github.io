@@ -1,0 +1,12 @@
+﻿footer {
+	clear: both;
+	padding: 5px 5px 10px 5px;
+	background-color: #ccc;
+	color: #333;
+}
+.copyRight {
+	display: block;
+	margin: 0 auto;
+	font-size: 13px;
+	text-align: center;
+}
